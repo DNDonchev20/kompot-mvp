@@ -1,0 +1,117 @@
+{
+    "start_page": {
+        "subtitle": "Събери печатите"
+    },
+
+    "email_page": {
+        "title": "Въведете имейл",
+        "field_title": "Имейл",
+        "next_button": "Продължи",
+        "before_button": "Върни се",
+        "valid_email": "Моля въведете валиден имейл"
+    },
+
+    "password_page": {
+        "title": "Въведете парола",
+        "subtitle": "Регистър",
+        "field_title": "Парола",
+        "password_empty": "Паролата не може да бъде празна",
+        "password_small_letter": "Паролата трябва да съдържа поне една малка буква",
+        "password_number": "Паролата трябва да съдържа поне една цифра",
+        "password_length": "Паролата трябва да бъде поне 8 символа",
+        "password_invalid": "Паролата е невалидна",
+        "next_button": "Продължи",
+        "before_button": "Върни се"
+    },
+
+    "passwordLogin_page": {
+        "title": "Въведете парола",
+        "subtitle": "Логин",
+        "field_title": "Парола",
+        "password_error": "Невалидна парола",
+        "next_button": "Продължи",
+        "before_button": "Върни се"
+    },
+
+    "name_page": {
+        "title": "Кажи ни малко за себе си",
+        "field_title_one": "Име",
+        "field_title_two": "Фамилия",
+        "field_title_three": "Дата на раждане",
+        "male_button": "Мъж",
+        "female_button": "Жена",
+        "name_error": "Невалидно име",
+        "last_name_error": "Невалидна фамилия",
+        "year_error": "Невалидна дата",
+        "next_button": "Продължи",
+        "before_button": "Върни се"
+    },
+
+    "home_page": {
+        "title_one": "Добро утро",
+        "title_two": "Добър ден",
+        "title_three": "Добър вечер",
+        "menu_button": "Заведения",
+        "reward_button": "Награди"
+    },
+
+    "menu_page":{
+        "title": "Заведения"
+    },
+
+    "delete_popup_page": {
+        "title": "Искаш ли да истриеш картата?",
+        "yes_button": "Да",
+        "no_button": "Не"
+    },
+
+    "reward_page": {
+        "title": "Подпечатай, за да\nполучиш"
+    },
+
+    "reward_list_page": {
+        "title": "Награди"
+    },
+
+    "settings_page": {
+        "title": "Настройки",
+        "subtitle": "Твоят профил",
+        "how_works": "Как работи",
+        "language": "Език",
+        "contact": "Свържете се с нас",
+        "clear": "Изчисти карти",
+        "exit": "Изход",
+        "terms_of_use": "Правила за ползване",
+        "privacy_policy": "Политика за поверителност",
+        "title_language": "Избери език"
+    },
+
+    "account_page": {
+        "title": "Твоят профил"
+    },
+
+    "review_card_component": {
+        "title": "Ще значи много за нас, ако\nоцениш заведението :)",
+        "first_subtitle": "Как беше храната/напитките?",
+        "second_subtitle": "Как беше обслужването?",
+        "third_subtitle": "Как беше атмосферата?"
+    }, 
+
+    "no_banners_warning": {
+        "title": "Няма повече\nкарти за добавяне.\n\nКогато премахнеш\nкарта, тя ще се\nвърне тук."
+    },
+
+    "no_cards_warning": {
+        "title": "Все още нямаш\nизбрани карти.\n\nНатисни на\n“Заведения”, за\nда добавиш."
+    },
+
+    "no_nfc_warning": {
+        "title": "Изглежда NFC\nтехнологията ти\nне е включена\nили липсва.\n\nНатисни на\n“Включи NFC\",\nза да я включиш.",
+        "subtitle": "Включи NFC"
+    },
+
+    "should_update_warning": {
+        "title": "Изглежда нямаш\nнай-новата\nверсия на\nприложението.\n\nНатисни на\n“Актуализирай”,\nза да я изтеглиш.",
+        "subtitle": "Актуализирай"
+    }
+}

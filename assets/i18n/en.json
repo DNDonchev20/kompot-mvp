@@ -1,0 +1,116 @@
+{
+    "start_page": {
+        "subtitle": "Collect the stamps"
+    },
+
+    "email_page": {
+        "title": "Enter Email",
+        "field_title": "Email",
+        "next_button": "Continue",
+        "before_button": "Go Back",
+        "valid_email": "Please enter a valid email"
+    },
+
+    "password_page": {
+        "title": "Enter Password",
+        "subtitle": "Register",
+        "field_title": "Password",
+        "password_empty": "Password cannot be empty",
+        "password_small_letter": "Password must contain at least one lowercase letter",
+        "password_number": "Password must contain at least one number",
+        "password_length": "Password must be at least 8 characters long",
+        "password_invalid": "Password is invalid",
+        "next_button": "Continue",
+        "before_button": "Go Back"
+    },
+
+    "passwordLogin_page": {
+        "title": "Enter Password",
+        "subtitle": "Login",
+        "field_title": "Password",
+        "password_error": "Invalid password",
+        "next_button": "Continue",
+        "before_button": "Go Back"
+    },
+
+    "name_page": {
+        "title": "Tell Us About Yourself",
+        "field_title_one": "First Name",
+        "field_title_two": "Last Name",
+        "field_title_three": "Date of Birth",
+        "male_button": "Male",
+        "female_button": "Female",
+        "name_error": "Invalid first name",
+        "last_name_error": "Invalid last name",
+        "year_error": "Invalid date",
+        "next_button": "Continue",
+        "before_button": "Go Back"
+    },
+
+    "home_page": {
+        "title_one": "Good Morning",
+        "title_two": "Good Day",
+        "title_three": "Good Evening",
+        "menu_button": "Places",
+        "reward_button": "Rewards"
+    },
+
+    "menu_page":{
+        "title": "Places"
+    },
+
+    "delete_popup_page": {
+        "title": "Do You Want to Delete the Card?",
+        "yes_button": "Yes",
+        "no_button": "No"
+    },
+
+    "reward_page": {
+        "title": "Stamp to\nRedeem"
+    },
+
+    "reward_list_page": {
+        "title": "Rewards"
+    },
+
+    "settings_page": {
+        "title": "Settings",
+        "subtitle": "Your Account",
+        "how_works": "How It Works",
+        "language": "Language",
+        "contact": "Contact Us",
+        "clear": "Clear Cards",
+        "exit": "Exit",
+        "terms_of_use": "Terms of Use",
+        "privacy_policy": "Privacy Policy",
+        "title_language": "Select Language"
+    },
+
+    "account_page": {
+        "title": "Your account"
+    },
+
+    "review_card_component": {
+        "title": "It would mean a lot to us\nif you could rate the place :)",
+        "first_subtitle": "How was the food/drinks?",
+        "second_subtitle": "How was the service?",
+        "third_subtitle": "How was the atmosphere?"
+    }, 
+
+    "no_banners_warning": {
+        "title": "No more cards\nto add.\n\nWhen you remove\na card, it will\nreturn here."
+    },
+
+    "no_cards_warning": {
+        "title": "You haven't\nselected any\ncards yet.\n\nPress\n“Places” to\nadd one."
+    },
+
+    "no_nfc_warning": {
+        "title": "It seems your NFC\ntechnology is\nturned off or\nmissing.\n\nPress\n“Enable NFC”\nto turn it on.",
+        "subtitle": "Turn NFC on"
+    },
+
+    "should_update_warning": {
+        "title": "It seems you don't have\nthe latest version of\nthe application.\n\nPress\n“Update”\nto download it."
+    }
+}

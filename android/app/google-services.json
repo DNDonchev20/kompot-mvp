@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "745257287690",
+    "firebase_url": "https://kompot-13c90-default-rtdb.europe-west1.firebasedatabase.app/",
+    "project_id": "kompot-13c90",
+    "storage_bucket": "kompot-13c90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745257287690:android:b4e48f92f72ce0eb7f1ff3",
+        "android_client_info": {
+          "package_name": "com.example.kompot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745257287690-jj5b5urn4r2esmd8hq9uq4jkc6rf4cb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-D2g1fxL3NqMSQOYCMiPlKCUtU3y1wlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745257287690-jj5b5urn4r2esmd8hq9uq4jkc6rf4cb1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "745257287690-r3sfb5020plha3naugs6777rv6aht0ce.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kompot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

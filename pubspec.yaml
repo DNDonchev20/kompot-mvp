@@ -1,0 +1,79 @@
+name: kompot
+description: A mobile application for loyalty.
+publish_to: "none"
+
+version: 1.0.3+9
+
+environment:
+  sdk: ">=3.0.1 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  nfc_manager: ^3.2.0
+  provider: ^6.0.5
+  firebase_core: ^2.14.0
+  firebase_database: ^10.2.3
+  firebase_auth: ^4.6.3
+  flutter_svg: ^1.1.0
+  cloud_firestore: ^4.5.2
+  firebase_storage: ^11.2.0
+  infinite_carousel: ^1.0.2
+  transparent_image: ^2.0.1
+  flutter_launcher_icons: ^0.13.1
+  localstorage: ^4.0.1+4
+  intl: ^0.18.0
+  url_launcher: ^6.1.12
+  flutter_swipe_detector: ^2.0.0
+  open_settings: ^2.0.2
+  flutter_holo_date_picker: ^1.1.0
+  translit: ^2.0.1
+  email_validator: ^2.1.17
+  email_auth: ^1.0.0
+  mailer: ^6.0.1
+  particles_flutter: ^0.1.4
+  firebase_dynamic_links: ^5.3.4
+  back_button_interceptor: ^7.0.0
+  flutter_rating_bar: ^4.0.1
+  delayed_display: ^2.0.0
+  webview_flutter:  ^4.2.2
+  package_info_plus: ^4.1.0
+  persistent_bottom_nav_bar: ^5.0.2
+  flutter_translate: ^4.0.4
+  qr_code_scanner: ^1.0.1
+  circle_flags: ^1.0.3
+  http: ^0.13.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/icons/
+    - assets/images/
+    - assets/i18n/
+
+  fonts:
+    - family: VarelaRound
+      fonts:
+        - asset: assets/fonts/VarelaRound-Regular.ttf
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Medium.ttf
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter.ttf
+
+
+flutter_icons:
+  image_path: "assets/images/logo.png"
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  resize_behavior: shrink_only

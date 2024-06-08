@@ -1,0 +1,116 @@
+{
+    "start_page": {
+        "subtitle": "Verzamel de stempels"
+    },
+
+    "email_page": {
+        "title": "Voer e-mail in",
+        "field_title": "E-mail",
+        "next_button": "Doorgaan",
+        "before_button": "Terug",
+        "valid_email": "Voer alstublieft een geldig e-mailadres in"
+    },
+
+    "password_page": {
+        "title": "Voer wachtwoord in",
+        "subtitle": "Registreren",
+        "field_title": "Wachtwoord",
+        "password_empty": "Wachtwoord mag niet leeg zijn",
+        "password_small_letter": "Wachtwoord moet minstens één kleine letter bevatten",
+        "password_number": "Wachtwoord moet minstens één cijfer bevatten",
+        "password_length": "Wachtwoord moet minstens 8 tekens lang zijn",
+        "password_invalid": "Wachtwoord is ongeldig",
+        "next_button": "Doorgaan",
+        "before_button": "Terug"
+    },
+
+    "passwordLogin_page": {
+        "title": "Voer wachtwoord in",
+        "subtitle": "Inloggen",
+        "field_title": "Wachtwoord",
+        "password_error": "Ongeldig wachtwoord",
+        "next_button": "Doorgaan",
+        "before_button": "Terug"
+    },
+
+    "name_page": {
+        "title": "Vertel ons iets over jezelf",
+        "field_title_one": "Voornaam",
+        "field_title_two": "Achternaam",
+        "field_title_three": "Geboortedatum",
+        "male_button": "Man",
+        "female_button": "Vrouw",
+        "name_error": "Ongeldige voornaam",
+        "last_name_error": "Ongeldige achternaam",
+        "year_error": "Ongeldige datum",
+        "next_button": "Doorgaan",
+        "before_button": "Terug"
+    },
+
+    "home_page": {
+        "title_one": "Goedemorgen",
+        "title_two": "Goedendag",
+        "title_three": "Goedenavond",
+        "menu_button": "Etablissementen",
+        "reward_button": "Beloningen"
+    },
+
+    "menu_page":{
+        "title": "Etablissementen"
+    },
+
+    "delete_popup_page": {
+        "title": "Wil je de kaart verwijderen?",
+        "yes_button": "Ja",
+        "no_button": "Nee"
+    },
+
+    "reward_page": {
+        "title": "Stempel om\nin te wisselen"
+    },
+
+    "reward_list_page": {
+        "title": "Beloningen"
+    },
+
+    "settings_page": {
+        "title": "Instellingen",
+        "subtitle": "Jouw profiel",
+        "how_works": "Hoe het werkt",
+        "language": "Taal",
+        "contact": "Neem contact met ons op",
+        "clear": "Kaarten wissen",
+        "exit": "Afsluiten",
+        "terms_of_use": "Gebruiksvoorwaarden",
+        "privacy_policy": "Privacybeleid",
+        "title_language": "Selecteer taal"
+    },
+
+    "account_page": {
+        "title": "Jouw profiel"
+    },
+
+    "review_card_component": {
+        "title": "Het zou veel voor ons betekenen\nals je het etablissement zou beoordelen :)",
+        "first_subtitle": "Hoe was het eten/drinken?",
+        "second_subtitle": "Hoe was de service?",
+        "third_subtitle": "Hoe was de sfeer?"
+    }, 
+
+    "no_banners_warning": {
+        "title": "Geen kaarten meer\nom toe te voegen.\n\nWanneer je een kaart verwijdert,\nzal deze hier terugkeren."
+    },
+
+    "no_cards_warning": {
+        "title": "Je hebt nog geen\nkaarten geselecteerd.\n\nDruk op\n“Etablissementen”\nom er een toe te voegen."
+    },
+
+    "no_nfc_warning": {
+        "title": "Het lijkt erop dat je NFC-technologie\ngedeactiveerd is of ontbreekt.\n\nDruk op\n“NFC inschakelen”\nom het in te schakelen.",
+        "subtitle": "Schakel NFC in"
+    },
+
+    "should_update_warning": {
+        "title": "Het lijkt erop dat je niet over\nde nieuwste versie van de applicatie beschikt.\n\nDruk op\n“Bijwerken”\nom deze te downloaden."
+    }
+}
